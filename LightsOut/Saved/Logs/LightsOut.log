@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 01/28/20 23:21:27
+=======
+﻿Log file open, 01/27/20 14:48:21
+>>>>>>> parent of 859b2cd... Aded health bars for the campfire and torch
 =======
 ﻿Log file open, 01/27/20 14:48:21
 >>>>>>> parent of 859b2cd... Aded health bars for the campfire and torch
@@ -18,6 +22,9 @@ LogStats: Stats thread started at 0.060562
 =======
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.287525
+<<<<<<< HEAD
+>>>>>>> parent of 859b2cd... Aded health bars for the campfire and torch
+=======
 >>>>>>> parent of 859b2cd... Aded health bars for the campfire and torch
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
@@ -172,6 +179,7 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.01.29-07.21.28:042][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.01.29-07.21.28:042][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1378,6 +1386,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.29-07.59.01:031][142]AssetCheck: New page: Asset Save: TopDownExampleMap
 [2020.01.29-07.59.01:031][142]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 =======
+=======
+>>>>>>> parent of 859b2cd... Aded health bars for the campfire and torch
 [2020.01.27-22.48.21:718][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.01.27-22.48.21:719][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.01.27-22.48.21:719][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/bellosil21/Documents/Unreal Projects/LightsOut/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
@@ -6714,4 +6724,7 @@ Script Stack (0 frames):
 [2020.01.28-00.19.16:482][158]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2020.01.28-00.19.16:501][158]LogExit: Exiting.
 [2020.01.28-00.19.16:538][158]Log file closed, 01/27/20 16:19:16
+<<<<<<< HEAD
+>>>>>>> parent of 859b2cd... Aded health bars for the campfire and torch
+=======
 >>>>>>> parent of 859b2cd... Aded health bars for the campfire and torch
