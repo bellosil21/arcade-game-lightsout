@@ -909,3 +909,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.03-02.09.25:189][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
 [2020.02.03-02.09.25:494][592]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMapC410BA7F4892D2DBE68DC3B6F13259B2.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2020.02.03-02.09.25:663][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-02.11.58:672][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.11.58:872][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-02.11.59:026][292]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownCharacterC14313D74B306B0B2C55339881614302.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.02.03-02.11.59:181][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.11.59:307][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-02.11.59:408][309]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownCharacter2FDD5C224C85CC571FF2DDB3EBD7E16F.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.02.03-02.12.00:693][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.12.00:873][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.02.03-02.12.01:166][419]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap76CD92C24623FFE95DE2BB8EE0FC04A2.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
