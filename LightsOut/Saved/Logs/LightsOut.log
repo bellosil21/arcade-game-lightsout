@@ -1944,3 +1944,137 @@ Make sure 'Darksiders_C' has been compiled for  Get Character Flipbook
 [2020.02.03-02.32.40:197][988]LogPlayLevel: Display: Destroying online subsystem :Context_35
 [2020.02.03-02.33.12:367][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
 [2020.02.03-02.33.12:703][125]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap90664A3B4DCE97AE8D825691A6E7D916.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.03-02.34.40:617][617]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.02.03-02.34.40:759][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-02.34.41:526][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-02.34.45:236][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-02.34.49:361][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.34.49:421][283]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.03-02.34.49:444][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.34.49:444][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-02.34.49:444][283]PIE: New page: PIE session: TopDownExampleMap (Feb 2, 2020, 10:34:49 AM)
+[2020.02.03-02.34.49:444][283]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.03-02.34.49:462][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017531s)
+[2020.02.03-02.34.49:462][283]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.03-02.34.49:462][283]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2020.02.03-02.34.49:462][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018334s)
+[2020.02.03-02.34.49:507][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.03-02.34.49:512][283]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.03-02.34.49:525][283]LogInit: FAudioDevice initialized.
+[2020.02.03-02.34.49:530][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-02.34.49:563][283]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.03-02.34.49:570][283]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.02-18.34.49
+[2020.02.03-02.34.49:572][283]LogWorld: Bringing up level for play took: 0.007527
+[2020.02.03-02.34.49:593][283]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.284
+[2020.02.03-02.34.49:594][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.34.55:339][714]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.03-02.34.55:341][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.34.55:375][714]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-02.34.55:375][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.34.55:450][714]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.02.03-02.34.55:533][715]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.02.03-02.34.56:426][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.35.09:146][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.36.05:510][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.40.37:870][583]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.03-02.40.37:901][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.40.37:901][583]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.03-02.40.37:912][583]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2020.02.03-02.40.38:136][583]LogPlayLevel: [PlayLevel] Compiling Campfire before play...
+[2020.02.03-02.40.38:136][583]LogPlayLevel: [PlayLevel]   Compiling Spawner as a dependent...
+[2020.02.03-02.40.38:139][583]LogPlayLevel: [PlayLevel]   Compiling Darksiders as a dependent...
+[2020.02.03-02.40.38:442][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.02.03-02.40.38:443][583]LogPlayLevel: PlayLevel: Blueprint regeneration took 542 ms (4 blueprints)
+[2020.02.03-02.40.38:443][583]PIE: New page: PIE session: TopDownExampleMap (Feb 2, 2020, 10:40:38 AM)
+[2020.02.03-02.40.38:443][583]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.03-02.40.38:462][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019428s)
+[2020.02.03-02.40.38:463][583]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.03-02.40.38:463][583]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2020.02.03-02.40.38:463][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020463s)
+[2020.02.03-02.40.38:519][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.03-02.40.38:525][583]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.03-02.40.38:540][583]LogInit: FAudioDevice initialized.
+[2020.02.03-02.40.38:545][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-02.40.38:579][583]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.03-02.40.38:586][583]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.02-18.40.38
+[2020.02.03-02.40.38:588][583]LogWorld: Bringing up level for play took: 0.007728
+[2020.02.03-02.40.38:609][583]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.304
+[2020.02.03-02.40.38:610][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.40.42:129][785]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.03-02.40.42:133][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.40.42:162][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-02.40.42:162][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.40.42:242][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.03-02.40.42:278][786]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.02.03-02.41.02:866][193]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.03-02.41.02:900][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.02:900][193]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.03-02.41.02:903][193]LogPlayLevel: [PlayLevel] Compiling Campfire before play...
+[2020.02.03-02.41.02:903][193]LogPlayLevel: [PlayLevel]   Compiling Spawner as a dependent...
+[2020.02.03-02.41.02:905][193]LogPlayLevel: [PlayLevel]   Compiling Darksiders as a dependent...
+[2020.02.03-02.41.03:227][193]LogUObjectHash: Compacting FUObjectHashTables data took   8.78ms
+[2020.02.03-02.41.03:227][193]LogPlayLevel: PlayLevel: Blueprint regeneration took 327 ms (3 blueprints)
+[2020.02.03-02.41.03:227][193]PIE: New page: PIE session: TopDownExampleMap (Feb 2, 2020, 10:41:03 AM)
+[2020.02.03-02.41.03:227][193]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.03-02.41.03:253][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025158s)
+[2020.02.03-02.41.03:253][193]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.03-02.41.03:254][193]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2020.02.03-02.41.03:254][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026133s)
+[2020.02.03-02.41.03:297][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.02.03-02.41.03:302][193]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.03-02.41.03:316][193]LogInit: FAudioDevice initialized.
+[2020.02.03-02.41.03:320][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-02.41.03:354][193]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.03-02.41.03:361][193]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.02-18.41.03
+[2020.02.03-02.41.03:363][193]LogWorld: Bringing up level for play took: 0.007201
+[2020.02.03-02.41.03:383][193]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.078
+[2020.02.03-02.41.03:384][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.09:017][497]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.03-02.41.09:021][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.09:053][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-02.41.09:054][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.09:118][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.02.03-02.41.09:159][498]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.02.03-02.41.11:295][656]BlueprintLog: New page: Compile Darksiders
+[2020.02.03-02.41.11:620][656]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.02.03-02.41.47:436][329]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.03-02.41.47:466][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.47:466][329]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.03-02.41.47:470][329]LogPlayLevel: [PlayLevel] Compiling Campfire before play...
+[2020.02.03-02.41.47:470][329]LogPlayLevel: [PlayLevel]   Compiling Spawner as a dependent...
+[2020.02.03-02.41.47:472][329]LogPlayLevel: [PlayLevel]   Compiling Darksiders as a dependent...
+[2020.02.03-02.41.47:822][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.02.03-02.41.47:822][329]LogPlayLevel: PlayLevel: Blueprint regeneration took 356 ms (3 blueprints)
+[2020.02.03-02.41.47:822][329]PIE: New page: PIE session: TopDownExampleMap (Feb 2, 2020, 10:41:47 AM)
+[2020.02.03-02.41.47:822][329]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.03-02.41.47:838][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016139s)
+[2020.02.03-02.41.47:839][329]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.03-02.41.47:839][329]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2020.02.03-02.41.47:839][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016982s)
+[2020.02.03-02.41.47:891][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.02.03-02.41.47:896][329]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.03-02.41.47:910][329]LogInit: FAudioDevice initialized.
+[2020.02.03-02.41.47:916][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-02.41.47:948][329]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.03-02.41.47:954][329]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.02-18.41.47
+[2020.02.03-02.41.47:956][329]LogWorld: Bringing up level for play took: 0.006810
+[2020.02.03-02.41.47:976][329]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.671
+[2020.02.03-02.41.47:977][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.51:977][561]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.03-02.41.51:980][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.52:015][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-02.41.52:015][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.03-02.41.52:098][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.02.03-02.41.52:136][562]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.02.03-02.41.53:363][649]BlueprintLog: New page: Compile Darksiders
+[2020.02.03-02.41.53:621][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.02.03-02.41.54:302][684]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-02.41.54:367][684]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Darksiders7F8923D542BEFFF86D7434A3E5B21168.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Enemies/Darksiders.uasset'
+[2020.02.03-02.41.56:582][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.41.56:692][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-02.41.56:755][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.02.03-02.41.57:172][860]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap754AFBD349E8F96C083D27875E977852.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.03-02.41.57:649][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-02.41.57:721][901]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.02.03-02.41.57:723][901]LogSlate: Window 'TopDownCharacter' being destroyed
+[2020.02.03-02.41.57:819][901]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
