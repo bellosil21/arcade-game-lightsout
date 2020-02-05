@@ -593,3 +593,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.05-22.46.48:645][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2020.02.05-22.46.48:745][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
 [2020.02.05-22.46.48:768][231]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.05-22.47.38:735][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
