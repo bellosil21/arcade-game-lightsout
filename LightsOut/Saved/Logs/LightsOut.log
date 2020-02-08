@@ -768,3 +768,94 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.08-21.46.46:451][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2020.02.08-21.46.46:512][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
 [2020.02.08-21.46.46:586][885]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.02.08-21.48.10:626][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Enemies/Spawner.Spawner
+[2020.02.08-21.48.20:704][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.08-21.56.03:766][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.08-21.56.04:164][702]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap_Auto4E3998BBD42AEE6BBA1761891C324D158.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2020.02.08-21.56.04:167][702]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.442
+[2020.02.08-21.56.04:168][702]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.442
+[2020.02.08-21.56.04:170][702]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/Enemies/Spawner] ([1] browsable assets)...
+[2020.02.08-21.56.04:170][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Enemies/Spawner]
+[2020.02.08-21.56.04:219][702]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Spawner_Auto487691B7F4840A210F24FD5ABDCB4274E.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Blueprints/Enemies/Spawner_Auto4.uasset'
+[2020.02.08-21.56.04:220][702]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.02.08-21.56.38:884][806]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.08-21.56.38:905][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.08-21.56.38:906][806]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.08-21.56.38:907][806]LogPlayLevel: [PlayLevel] Compiling Spawner before play...
+[2020.02.08-21.56.39:269][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.08-21.56.39:269][806]LogPlayLevel: PlayLevel: Blueprint regeneration took 363 ms (1 blueprints)
+[2020.02.08-21.56.39:269][806]PIE: New page: PIE session: TopDownExampleMap (Feb 8, 2020, 5:56:39 AM)
+[2020.02.08-21.56.39:269][806]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.08-21.56.39:292][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022737s)
+[2020.02.08-21.56.39:293][806]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.08-21.56.39:293][806]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2020.02.08-21.56.39:293][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023850s)
+[2020.02.08-21.56.39:356][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.02.08-21.56.39:364][806]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.08-21.56.39:383][806]LogInit: FAudioDevice initialized.
+[2020.02.08-21.56.39:388][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.08-21.56.39:418][806]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.08-21.56.39:421][806]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.08-13.56.39
+[2020.02.08-21.56.39:422][806]LogWorld: Bringing up level for play took: 0.003771
+[2020.02.08-21.56.39:437][806]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.004
+[2020.02.08-21.56.39:437][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.08-21.56.59:083][404]LogBlueprintUserMessages: [Campfire_16] 1
+[2020.02.08-21.57.19:086][946]LogBlueprintUserMessages: [Campfire_16] 2
+[2020.02.08-21.57.39:077][515]LogBlueprintUserMessages: [Campfire_16] 3
+[2020.02.08-21.57.46:626][102]LogAudio: Warning: Detected orphaned looping sound 'Fire01'.
+[2020.02.08-21.57.48:206][222]LogAudio: Warning: Detected orphaned looping sound 'Fire01'.
+[2020.02.08-21.57.59:080][ 75]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-21.57.59:080][ 75]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-21.57.59:081][ 75]LogBlueprintUserMessages: [Campfire_16] 2
+[2020.02.08-21.58.19:080][563]LogBlueprintUserMessages: [Campfire_16] 3
+[2020.02.08-21.58.39:074][111]LogBlueprintUserMessages: [Campfire_16] 4
+[2020.02.08-21.58.59:072][734]LogBlueprintUserMessages: [Campfire_16] 5
+[2020.02.08-21.59.19:070][248]LogBlueprintUserMessages: [Campfire_16] 6
+[2020.02.08-21.59.39:080][730]LogBlueprintUserMessages: [Campfire_16] 7
+[2020.02.08-21.59.59:078][358]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-21.59.59:078][358]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-21.59.59:079][358]LogBlueprintUserMessages: [Campfire_16] 8
+[2020.02.08-22.00.19:081][803]LogBlueprintUserMessages: [Campfire_16] 9
+[2020.02.08-22.00.39:070][820]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.00.39:070][820]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.00.39:070][820]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.00.39:079][820]LogBlueprintUserMessages: [Campfire_16] 10
+[2020.02.08-22.00.59:081][726]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.00.59:082][726]LogBlueprintUserMessages: [Campfire_16] 11
+[2020.02.08-22.01.19:106][582]LogBlueprintUserMessages: [Campfire_16] 12
+[2020.02.08-22.01.39:084][476]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.01.39:084][476]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.01.39:084][476]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.01.59:567][352]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.02.19:702][725]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.02.39:885][785]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.03.00:328][844]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.00:328][844]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.00:328][844]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.03.20:503][904]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.20:503][904]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.20:503][904]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.20:503][904]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.20:503][904]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.20:503][904]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.03.40:461][963]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.40:461][963]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.40:461][963]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.40:461][963]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.08-22.03.40:462][963]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.04.00:983][ 23]LogBlueprintUserMessages: [Campfire_16] Not Spawning anymore
+[2020.02.08-22.04.10:259][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-22.04.10:363][ 51]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.08-22.04.10:375][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.08-22.04.10:437][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.08-22.04.10:437][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.08-22.04.10:731][ 51]LogUObjectHash: Compacting FUObjectHashTables data took  11.69ms
+[2020.02.08-22.04.10:774][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.08-22.13.36:175][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.08-22.13.36:565][729]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap_Auto5455F29E1486753BBA6977CBD6B1CF154.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap'
+[2020.02.08-22.13.36:568][729]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.481
+[2020.02.08-22.13.36:568][729]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.481
+[2020.02.08-22.33.10:316][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.08-22.33.10:510][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.08-22.33.10:567][ 66]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Spawner3CC35CDA410BA6A07B6ABBBE70EA8BA5.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Enemies/Spawner.uasset'
+[2020.02.08-22.33.12:367][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
