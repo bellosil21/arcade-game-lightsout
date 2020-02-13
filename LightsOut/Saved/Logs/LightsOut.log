@@ -471,3 +471,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.13-02.51.39:742][  0]LogSlate: Using FreeType 2.6.0
 [2020.02.13-02.51.39:746][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
 [2020.02.13-02.51.40:021][  0]LogAssetRegistry: FAssetRegistry took 0.0433 seconds to start up
+[2020.02.13-02.51.40:632][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.13-02.51.40:883][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.13-02.51.40:883][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.13-02.51.40:883][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.13-02.51.40:883][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.13-02.51.40:883][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.13-02.51.40:908][  0]LogNetVersion: LightsOut 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 845501272)
+[2020.02.13-02.51.41:677][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.076355 seconds
+[2020.02.13-02.51.41:690][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.13-02.51.41:690][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.13-02.51.41:690][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.13-02.51.44:571][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.13-02.51.44:590][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.13-02.51.44:792][  0]SourceControl: Source control is disabled
+[2020.02.13-02.51.45:776][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.13-02.51.45:913][  0]LogOcInput: OculusInput pre-init called
+[2020.02.13-02.51.48:477][  0]LogEngine: Initializing Engine...
+[2020.02.13-02.51.48:478][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.13-02.51.48:480][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.13-02.51.48:822][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.13-02.51.48:852][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.13-02.51.48:864][  0]LogInit: XAudio2 using 'Speakers (VMware Virtual Audio (DevTap))' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-02.51.48:899][  0]LogInit: FAudioDevice initialized.
+[2020.02.13-02.51.48:899][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.13-02.51.49:117][  0]LogDerivedDataCache: Saved boot cache 0.22s 73MB C:/Users/marcinko21/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.13-02.51.49:152][  0]LogInit: Texture streaming: Enabled
+[2020.02.13-02.51.49:196][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.13-02.51.49:245][  0]LogInit: Transaction tracking system initialized
+[2020.02.13-02.51.49:306][  0]BlueprintLog: New page: Editor Load
+[2020.02.13-02.51.49:545][  0]LocalizationService: Localization service is disabled
+[2020.02.13-02.51.50:099][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.13-02.51.50:099][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.13-02.51.50:553][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/' took 0.04s
+[2020.02.13-02.51.50:553][  0]Cmd: MAP LOAD FILE="../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-02.51.50:554][  0]LightingResults: New page: Lighting Build
+[2020.02.13-02.51.50:560][  0]MapCheck: New page: Map Check
+[2020.02.13-02.51.50:560][  0]LightingResults: New page: Lighting Build
+[2020.02.13-02.51.50:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.02.13-02.51.51:859][  0]LogTexture: Display: Building textures: back_001 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.51:859][  0]LogTexture: Display: Building textures: back_002 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.51:859][  0]LogTexture: Display: Building textures: back_004 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.51:859][  0]LogTexture: Display: Building textures: back_003 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:184][  0]LogTexture: Display: Building textures: back_005 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:184][  0]LogTexture: Display: Building textures: front_001 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:185][  0]LogTexture: Display: Building textures: front_004 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:209][  0]LogTexture: Display: Building textures: front_002 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:505][  0]LogTexture: Display: Building textures: right_005 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:505][  0]LogTexture: Display: Building textures: front_003 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:505][  0]LogTexture: Display: Building textures: front_005 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.52:818][  0]LogTexture: Display: Building textures: right_004 (AutoDXT, 1000X1000)
