@@ -521,3 +521,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.13-02.51.52:505][  0]LogTexture: Display: Building textures: front_003 (AutoDXT, 1000X1000)
 [2020.02.13-02.51.52:505][  0]LogTexture: Display: Building textures: front_005 (AutoDXT, 1000X1000)
 [2020.02.13-02.51.52:818][  0]LogTexture: Display: Building textures: right_004 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_003 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_002 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_001 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_005 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_004 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_003 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: front_005__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: front_004__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: front_003__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: front_002__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: back_005__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: back_004__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: back_003__2_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: back_002__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: back_001__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: front_001__1_ (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_005 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_004 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_003 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_002 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: right_001 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_005 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_004 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_003 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_002 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_001 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_002 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogTexture: Display: Building textures: left_001 (AutoDXT, 1000X1000)
+[2020.02.13-02.51.57:569][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.13-02.51.57:639][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-02.51.57:684][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.13-02.51.57:684][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-02.51.57:684][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.312ms to complete.
+[2020.02.13-02.51.57:684][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 7.132
+[2020.02.13-02.51.57:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-02.51.57:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-02.51.57:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-02.51.57:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-02.51.57:881][  0]LogCollectionManager: Loaded 0 collections in 0.007091 seconds
+[2020.02.13-02.51.57:902][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Collections/' took 0.01s
+[2020.02.13-02.51.57:902][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/Developers/marcinko21/Collections/' took 0.00s
+[2020.02.13-02.51.57:902][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/Collections/' took 0.00s
+[2020.02.13-02.51.57:902][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.13-02.51.57:914][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2732 classes and 659 folders.
+[2020.02.13-02.51.57:927][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.13-02.51.57:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:973][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:989][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.57:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-02.51.58:343][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.02.13-02.51.58:355][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.02.13-02.51.58:383][  0]LogSlate: Took 0.006817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.13-02.51.58:386][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.13-02.51.58:391][  0]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.13-02.51.58:481][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2020.02.13-02.51.58:855][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.13-02.51.58:879][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.02.13-02.51.58:916][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.13-02.51.58:916][  0]LogLoad: (Engine Initialization) Total time: 39.56 seconds
+[2020.02.13-02.51.58:916][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.13-02.51.58:966][  0]LogAssetRegistry: Asset discovery search completed in 18.9690 seconds
+[2020.02.13-02.51.58:972][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.13-02.51.58:972][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2020.02.13-02.51.58:975][  0]LogContentStreaming: Texture pool size now 1000 MB
