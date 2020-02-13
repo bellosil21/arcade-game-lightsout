@@ -1,0 +1,1328 @@
+﻿Log file open, 02/12/20 14:46:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LightsOut
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266744
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Xeon(R) W-2123 CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.12-22.46.45:482][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.12-22.46.45:482][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.12-22.46.45:482][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
+[2020.02.12-22.46.45:482][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.12-22.46.45:482][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
+[2020.02.12-22.46.45:482][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.12-22.46.45:483][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.12-22.46.45:484][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.12-22.46.45:484][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
+[2020.02.12-22.46.45:484][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
+[2020.02.12-22.46.45:493][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:493][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.12-22.46.45:493][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.12-22.46.45:493][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:493][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.12-22.46.45:493][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:493][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.12-22.46.45:494][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.12-22.46.45:495][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.12-22.46.45:496][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.12-22.46.45:496][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.12-22.46.45:496][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.12-22.46.45:523][  0]LogHAL: Display: Platform has ~ 32 GB [33990602752 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.12-22.46.45:523][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.12-22.46.45:523][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.12-22.46.45:523][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:523][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.12-22.46.45:524][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.12-22.46.45:525][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Scalability.ini]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.12-22.46.45:526][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Config/Windows/Engine.ini]
+[2020.02.12-22.46.45:526][  0]LogInit: Computer: EN304-22227
+[2020.02.12-22.46.45:527][  0]LogInit: User: campbeld21
+[2020.02.12-22.46.45:527][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.12-22.46.45:527][  0]LogInit: High frequency timer resolution =3.515621 MHz
+[2020.02.12-22.46.45:527][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2020.02.12-22.46.45:527][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.12-22.46.45:527][  0]LogMemory: Process Physical Memory: 96.96 MB used, 96.96 MB peak
+[2020.02.12-22.46.45:527][  0]LogMemory: Process Virtual Memory: 89.11 MB used, 89.11 MB peak
+[2020.02.12-22.46.45:527][  0]LogMemory: Physical Memory: 7360.05 MB used,  25055.91 MB free, 32415.96 MB total
+[2020.02.12-22.46.45:527][  0]LogMemory: Virtual Memory: 4653.84 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.02.12-22.46.45:558][  0]LogInit: Using OS detected language (en-US).
+[2020.02.12-22.46.45:558][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.12-22.46.45:559][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.12-22.46.45:723][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.12-22.46.45:769][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.12-22.46.45:769][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.12-22.46.45:941][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.12-22.46.45:941][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.12-22.46.46:005][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.02.12-22.46.46:005][  0]LogD3D11RHI:       8031/0/16207 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.12-22.46.46:007][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.12-22.46.46:007][  0]LogD3D11RHI:       0/0/16207 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.12-22.46.46:007][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.12-22.46.46:012][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.12-22.46.46:012][  0]LogD3D11RHI:     GPU DeviceId: 0x1f07 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.12-22.46.46:012][  0]LogWindows: EnumDisplayDevices:
+[2020.02.12-22.46.46:012][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.02.12-22.46.46:012][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.02.12-22.46.46:012][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.02.12-22.46.46:012][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.02.12-22.46.46:012][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.12-22.46.46:012][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.02.12-22.46.46:012][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2020.02.12-22.46.46:012][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2020.02.12-22.46.46:012][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.02.12-22.46.46:056][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.12-22.46.46:058][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.12-22.46.46:059][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.12-22.46.46:059][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.12-22.46.46:066][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.12-22.46.46:370][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.12-22.46.46:383][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.12-22.46.46:394][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.12-22.46.46:406][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.12-22.46.46:417][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.12-22.46.46:429][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.12-22.46.46:440][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.12-22.46.46:451][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.12-22.46.46:457][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.12-22.46.46:530][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.12-22.46.46:531][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.12-22.46.46:593][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.12-22.46.46:593][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.12-22.46.46:618][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.12-22.46.46:618][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.12-22.46.46:628][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.12-22.46.46:638][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.12-22.46.46:649][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.12-22.46.46:659][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.12-22.46.46:696][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.12-22.46.46:696][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.12-22.46.46:696][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.12-22.46.46:703][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.12-22.46.46:740][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Intermediate/Shaders/WorkingDirectory/16180/).
+[2020.02.12-22.46.46:740][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/campbeld21/AppData/Local/Temp/UnrealShaderWorkingDir/721653934CDB5DDEC6BB5B817FEB0B1A/'.
+[2020.02.12-22.46.46:742][  0]LogXGEController: Cleaning working directory: C:/Users/campbeld21/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.12-22.46.46:742][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.12-22.46.46:742][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.12-22.46.46:742][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.12-22.46.47:260][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.12-22.46.47:310][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/campbeld21/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.12-22.46.47:310][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/campbeld21/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.12-22.46.47:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.12-22.46.47:310][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.12-22.46.47:310][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.12-22.46.47:310][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.12-22.46.47:322][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.12-22.46.47:322][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.12-22.46.47:322][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.12-22.46.47:334][  0]LogDerivedDataCache: Using Local data cache path C:/Users/campbeld21/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.12-22.46.47:334][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.12-22.46.47:334][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.12-22.46.47:374][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.12-22.46.47:375][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.12-22.46.47:376][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.12-22.46.47:449][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2020.02.12-22.46.47:756][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.12-22.46.47:872][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.12-22.46.47:872][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.12-22.46.47:872][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.12-22.46.47:872][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.12-22.46.47:872][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.12-22.46.47:881][  0]LogNetVersion: LightsOut 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 845501272)
+[2020.02.12-22.46.48:292][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.044483 seconds
+[2020.02.12-22.46.48:298][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.12-22.46.48:298][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.12-22.46.48:298][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.12-22.46.49:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.12-22.46.49:119][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.12-22.46.49:238][  0]SourceControl: Source control is disabled
+[2020.02.12-22.46.49:724][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.12-22.46.49:791][  0]LogOcInput: OculusInput pre-init called
+[2020.02.12-22.46.50:381][  0]LogEngine: Initializing Engine...
+[2020.02.12-22.46.50:382][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.12-22.46.50:383][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.12-22.46.50:570][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.12-22.46.50:595][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.12-22.46.50:612][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-22.46.50:653][  0]LogInit: FAudioDevice initialized.
+[2020.02.12-22.46.50:654][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.12-22.46.50:716][  0]LogDerivedDataCache: Saved boot cache 0.06s 73MB C:/Users/campbeld21/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.12-22.46.50:732][  0]LogInit: Texture streaming: Enabled
+[2020.02.12-22.46.50:747][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.12-22.46.50:764][  0]LogInit: Transaction tracking system initialized
+[2020.02.12-22.46.50:801][  0]BlueprintLog: New page: Editor Load
+[2020.02.12-22.46.50:870][  0]LocalizationService: Localization service is disabled
+[2020.02.12-22.46.51:201][  0]LogFileCache: Scanning file cache for directory 'C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/' took 0.02s
+[2020.02.12-22.46.51:201][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.12-22.46.51:201][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.12-22.46.51:350][  0]Cmd: MAP LOAD FILE="../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.12-22.46.51:350][  0]LightingResults: New page: Lighting Build
+[2020.02.12-22.46.51:353][  0]MapCheck: New page: Map Check
+[2020.02.12-22.46.51:353][  0]LightingResults: New page: Lighting Build
+[2020.02.12-22.46.51:394][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.12-22.46.54:101][  0]LogTexture: Display: Building textures: right_002 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:101][  0]LogTexture: Display: Building textures: right_001 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:101][  0]LogTexture: Display: Building textures: left_004 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_005 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_003 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_005 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_004 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_001__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_001__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_005__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_004__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_002__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_003__2_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_004__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_003__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_002__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_001 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_005__1_ (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_004 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_003 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_002 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_001 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_005 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_004 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_003 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_002 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: right_005 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_001 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_004 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_003 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_002 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: back_005 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_003 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_002 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_001 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_005 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: front_004 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_003 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_002 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:102][  0]LogTexture: Display: Building textures: left_001 (AutoDXT, 1000X1000)
+[2020.02.12-22.46.54:121][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-22.46.54:181][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.12-22.46.54:225][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.12-22.46.54:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.12-22.46.54:225][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2020.02.12-22.46.54:225][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.876
+[2020.02.12-22.46.54:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.46.54:387][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.46.54:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.46.54:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.46.54:410][  0]LogCollectionManager: Loaded 0 collections in 0.001631 seconds
+[2020.02.12-22.46.54:438][  0]LogFileCache: Scanning file cache for directory 'C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Collections/' took 0.01s
+[2020.02.12-22.46.54:438][  0]LogFileCache: Scanning file cache for directory 'C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/Developers/campbeld21/Collections/' took 0.00s
+[2020.02.12-22.46.54:438][  0]LogFileCache: Scanning file cache for directory 'C:/Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/Collections/' took 0.01s
+[2020.02.12-22.46.54:438][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.02.12-22.46.54:448][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2732 classes and 659 folders.
+[2020.02.12-22.46.54:454][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.12-22.46.54:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:459][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:464][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.12-22.46.54:493][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.12-22.46.54:498][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.12-22.46.54:511][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.12-22.46.54:513][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.12-22.46.54:519][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.12-22.46.54:573][  0]LogRenderer: Reallocating scene render targets to support 904x456 Format 10 NumSamples 1 (Frame:1).
+[2020.02.12-22.46.54:687][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.12-22.46.54:711][  0]LogSlate: Window 'Tutorials' being destroyed
+[2020.02.12-22.46.54:748][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.12-22.46.54:748][  0]LogLoad: (Engine Initialization) Total time: 11.14 seconds
+[2020.02.12-22.46.54:748][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.12-22.46.54:760][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.12-22.46.54:793][  0]LogAssetRegistry: Asset discovery search completed in 7.3663 seconds
+[2020.02.12-22.46.54:796][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.12-22.46.54:796][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.02.12-22.46.54:800][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.12-22.46.54:830][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.12-22.46.56:465][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-22.46.56:541][186]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-22.46.56:555][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.46.56:555][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-22.46.56:555][186]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 6:46:56 AM)
+[2020.02.12-22.46.56:568][186]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-22.46.56:591][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022591s)
+[2020.02.12-22.46.56:592][186]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-22.46.56:593][186]LogPlayLevel: PIE: World Init took: (0.001666s)
+[2020.02.12-22.46.56:593][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024734s)
+[2020.02.12-22.46.56:625][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.02.12-22.46.56:629][186]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-22.46.56:638][186]LogInit: FAudioDevice initialized.
+[2020.02.12-22.46.56:641][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.46.56:688][186]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-22.46.56:696][186]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-14.46.56
+[2020.02.12-22.46.56:699][186]LogWorld: Bringing up level for play took: 0.008190
+[2020.02.12-22.46.56:725][186]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.02.12-22.46.56:731][186]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.516
+[2020.02.12-22.46.56:732][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.46.56:800][187]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2020.02.12-22.47.16:550][516]LogBlueprintUserMessages: [Campfire_16] 1
+[2020.02.12-22.47.36:549][878]LogBlueprintUserMessages: [Campfire_16] 2
+[2020.02.12-22.47.38:613][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.47.38:614][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.47.38:632][121]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-22.47.38:664][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-22.47.38:664][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.47.38:724][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.12-22.47.38:735][122]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.12-22.47.43:233][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-22.47.43:299][658]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-22.47.43:313][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.47.43:313][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-22.47.43:313][658]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 6:47:43 AM)
+[2020.02.12-22.47.43:314][658]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-22.47.43:332][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018165s)
+[2020.02.12-22.47.43:332][658]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-22.47.43:333][658]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2020.02.12-22.47.43:333][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019089s)
+[2020.02.12-22.47.43:368][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.02.12-22.47.43:373][658]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-22.47.43:381][658]LogInit: FAudioDevice initialized.
+[2020.02.12-22.47.43:385][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.47.43:419][658]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-22.47.43:426][658]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-14.47.43
+[2020.02.12-22.47.43:428][658]LogWorld: Bringing up level for play took: 0.007254
+[2020.02.12-22.47.43:445][658]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.198
+[2020.02.12-22.47.43:445][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.48.03:305][966]LogBlueprintUserMessages: [Campfire_16] 1
+[2020.02.12-22.48.23:307][319]LogBlueprintUserMessages: [Campfire_16] 2
+[2020.02.12-22.48.43:305][668]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.12-22.48.43:306][668]LogBlueprintUserMessages: [Campfire_16] 3
+[2020.02.12-22.48.52:478][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.48.52:479][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.48.52:495][749]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-22.48.52:532][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-22.48.52:532][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.48.52:590][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.12-22.48.52:607][750]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.12-22.48.59:327][547]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.12-22.48.59:334][547]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/SwingHitBox.SwingHitBox
+[2020.02.12-22.48.59:785][547]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2020.02.12-22.49.00:697][547]LogSlate: Took 0.006237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.12-22.49.03:729][840]LogSlate: Window 'SwingHitBox' being destroyed
+[2020.02.12-22.49.03:732][840]LogSlate: Window 'SwingHitBox' being destroyed
+[2020.02.12-22.49.05:156][979]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.02.12-22.49.05:755][980]LogSlate: Took 0.010512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.12-22.49.17:457][871]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-22.49.17:476][871]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.49.17:477][871]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.12-22.49.17:497][871]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2020.02.12-22.49.17:774][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.02.12-22.49.17:775][871]LogPlayLevel: PlayLevel: Blueprint regeneration took 298 ms (1 blueprints)
+[2020.02.12-22.49.17:775][871]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 6:49:17 AM)
+[2020.02.12-22.49.17:775][871]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-22.49.17:793][871]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017147s)
+[2020.02.12-22.49.17:793][871]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-22.49.17:793][871]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2020.02.12-22.49.17:793][871]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018021s)
+[2020.02.12-22.49.17:837][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.12-22.49.17:841][871]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-22.49.17:850][871]LogInit: FAudioDevice initialized.
+[2020.02.12-22.49.17:854][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.49.17:888][871]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-22.49.17:895][871]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-14.49.17
+[2020.02.12-22.49.17:897][871]LogWorld: Bringing up level for play took: 0.007154
+[2020.02.12-22.49.17:916][871]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.67
+[2020.02.12-22.49.17:917][871]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.49.37:546][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.49.37:546][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-22.49.37:565][ 59]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-22.49.37:605][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-22.49.37:605][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-22.49.37:670][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.12-22.49.37:705][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.02.12-22.51.57:567][195]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/TopDownBP/Blueprints/Health.Health
+[2020.02.12-22.59.06:231][504]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.02.12-22.59.06:540][504]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap_Auto1C474D92342AFBDBA81084D8581E0F5CF.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2020.02.12-22.59.06:552][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.405
+[2020.02.12-22.59.06:552][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.405
+[2020.02.12-22.59.06:554][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2020.02.12-22.59.06:554][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2020.02.12-22.59.06:702][504]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownCharacter_Auto16FF5063D425348B7F842AD80745CC62A.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto1.uasset'
+[2020.02.12-22.59.06:703][504]LogFileHelpers: Auto-saving content packages took 0.149
+[2020.02.12-23.14.54:506][684]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/TopDownBP/Blueprints/EndGameWidget.EndGameWidget
+[2020.02.12-23.15.40:884][ 70]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.12-23.17.19:224][454]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.12-23.17.26:875][ 90]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.12-23.18.20:103][585]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.12-23.19.27:975][235]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.02.12-23.19.27:975][235]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.058
+[2020.02.12-23.19.27:976][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/EndGameWidget] ([1] browsable assets)...
+[2020.02.12-23.19.27:976][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/EndGameWidget]
+[2020.02.12-23.19.27:988][235]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidget_Auto20DCD05644F73CBE4972239964955B688.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Blueprints/EndGameWidget_Auto2.uasset'
+[2020.02.12-23.19.27:989][235]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.02.12-23.20.42:166][806]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.12-23.23.02:982][ 18]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.12-23.24.22:425][925]BlueprintLog: New page: Compile EndGameWidget
+[2020.02.12-23.24.22:482][925]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.12-23.24.23:433][998]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidget39FEAB3C485E47E8E300FCBDD32DFF3E.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/EndGameWidget.uasset'
+[2020.02.12-23.24.58:105][ 84]LogRenderer: Reallocating scene render targets to support 1272x720 Format 10 NumSamples 1 (Frame:1).
+[2020.02.12-23.26.25:116][382]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.02.12-23.26.25:178][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.12-23.26.30:100][382]LogSlate: Window 'Save Content' being destroyed
+[2020.02.12-23.26.30:314][382]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownCharacter8E414DE94C16AD38A1A65684DF2B7879.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.02.12-23.26.30:391][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.12-23.26.30:755][382]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap58AAEFE4450E5949B38CB29AC2A32EB1.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.12-23.26.30:835][382]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.508
+[2020.02.12-23.26.30:842][382]Cmd: MAP LOAD FILE="../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.12-23.26.30:843][382]LightingResults: New page: Lighting Build
+[2020.02.12-23.26.30:844][382]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2020.02.12-23.26.30:847][382]MapCheck: New page: Map Check
+[2020.02.12-23.26.30:847][382]LightingResults: New page: Lighting Build
+[2020.02.12-23.26.30:929][382]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.02.12-23.26.30:980][382]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.26.31:116][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.12-23.26.31:173][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.12-23.26.31:201][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.12-23.26.31:201][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2020.02.12-23.26.31:202][382]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.363
+[2020.02.12-23.26.35:295][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-23.26.35:458][867]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.02.12-23.26.35:517][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.12-23.26.35:519][867]Cmd: MAP LOAD FILE="../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.12-23.26.35:519][867]LightingResults: New page: Lighting Build
+[2020.02.12-23.26.35:519][867]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2020.02.12-23.26.35:521][867]MapCheck: New page: Map Check
+[2020.02.12-23.26.35:521][867]LightingResults: New page: Lighting Build
+[2020.02.12-23.26.35:567][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.02.12-23.26.35:590][867]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.26.35:654][867]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.12-23.26.35:708][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.12-23.26.35:735][867]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.12-23.26.35:735][867]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2020.02.12-23.26.35:736][867]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.218
+[2020.02.12-23.28.31:728][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.SKEL_EndGameWidget_C' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:728][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.EndGameWidget_C' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.EndGameWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.EndGameWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.EndGameWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.EndGameWidget_C:Button_202' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.EndGameWidget_C:Image_92' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.SKEL_EndGameWidget_C:Button_202' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.SKEL_EndGameWidget_C:Image_92' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.SKEL_EndGameWidget_C:Tick' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.SKEL_EndGameWidget_C:Construct' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:729][973]LogMetaData: Removing '/Game/TopDownBP/Blueprints/Endgame/EndGameWidget.SKEL_EndGameWidget_C:PreConstruct' ref from Metadata '/Game/TopDownBP/Blueprints/EndGameWidget.PackageMetaData'
+[2020.02.12-23.28.31:760][973]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidgetF79D89CF42E3F33F88E52497E7AC1330.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Endgame/EndGameWidget.uasset'
+[2020.02.12-23.28.32:330][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.12-23.28.32:374][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.02.12-23.28.32:424][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.02.12-23.28.32:506][973]SourceControl: rm 'LightsOut/Content/TopDownBP/Blueprints/EndGameWidget.uasset'
+[2020.02.12-23.28.47:415][675]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap
+[2020.02.12-23.36.06:238][383]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.36.06:274][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.06:274][383]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.12-23.36.06:274][383]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2020.02.12-23.36.06:528][383]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.02.12-23.36.06:528][383]LogPlayLevel: PlayLevel: Blueprint regeneration took 254 ms (1 blueprints)
+[2020.02.12-23.36.06:529][383]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 7:36:06 AM)
+[2020.02.12-23.36.06:529][383]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.36.06:552][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022779s)
+[2020.02.12-23.36.06:552][383]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.36.06:552][383]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2020.02.12-23.36.06:552][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023593s)
+[2020.02.12-23.36.06:608][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.02.12-23.36.06:614][383]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.36.06:625][383]LogInit: FAudioDevice initialized.
+[2020.02.12-23.36.06:629][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.36.06:656][383]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.36.06:663][383]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.36.06
+[2020.02.12-23.36.06:665][383]LogWorld: Bringing up level for play took: 0.007495
+[2020.02.12-23.36.06:684][383]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.55
+[2020.02.12-23.36.06:685][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.10:553][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-23.36.25:455][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.25:456][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.36.25:474][ 16]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.36.25:517][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.36.25:517][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.25:604][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.12-23.36.25:627][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.02.12-23.36.43:405][686]BlueprintLog: New page: Compile EndGameWidget
+[2020.02.12-23.36.43:459][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.02.12-23.36.44:297][739]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidget5315A12D413A16E137189B9C4290F1A6.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Endgame/EndGameWidget.uasset'
+[2020.02.12-23.36.45:966][895]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.36.46:000][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.46:000][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-23.36.46:000][895]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 7:36:46 AM)
+[2020.02.12-23.36.46:000][895]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.36.46:018][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017971s)
+[2020.02.12-23.36.46:019][895]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.36.46:019][895]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2020.02.12-23.36.46:019][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018707s)
+[2020.02.12-23.36.46:069][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.12-23.36.46:074][895]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.36.46:082][895]LogInit: FAudioDevice initialized.
+[2020.02.12-23.36.46:085][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.36.46:115][895]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.36.46:122][895]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.36.46
+[2020.02.12-23.36.46:124][895]LogWorld: Bringing up level for play took: 0.007359
+[2020.02.12-23.36.46:143][895]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.91
+[2020.02.12-23.36.46:144][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.49:783][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.49:784][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.36.49:800][241]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.36.49:840][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.36.49:840][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.36.49:922][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.12-23.36.49:944][242]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.12-23.37.45:626][107]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.37.45:649][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.37.45:649][107]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.12-23.37.45:649][107]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2020.02.12-23.37.45:901][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.02.12-23.37.45:901][107]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2020.02.12-23.37.45:901][107]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 7:37:45 AM)
+[2020.02.12-23.37.45:902][107]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.37.45:920][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017466s)
+[2020.02.12-23.37.45:920][107]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.37.45:920][107]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2020.02.12-23.37.45:920][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018198s)
+[2020.02.12-23.37.45:978][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.12-23.37.45:983][107]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.37.45:992][107]LogInit: FAudioDevice initialized.
+[2020.02.12-23.37.46:002][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.37.46:034][107]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.37.46:038][107]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.37.46
+[2020.02.12-23.37.46:038][107]LogWorld: Bringing up level for play took: 0.003149
+[2020.02.12-23.37.46:058][107]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.825
+[2020.02.12-23.37.46:058][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.37.54:417][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.37.54:418][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.37.54:435][869]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.37.54:477][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.37.54:477][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.37.54:557][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.12-23.37.54:580][870]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.12-23.38.27:515][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.12-23.38.27:877][435]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap_Auto380C347B8491D4EFFEDAAC3B5EF2A2E7D.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2020.02.12-23.38.27:884][435]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.421
+[2020.02.12-23.38.27:884][435]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2020.02.12-23.38.48:731][504]BlueprintLog: New page: Compile EndGameWidget
+[2020.02.12-23.38.48:786][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.12-23.38.49:333][537]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidgetF4CA11194236603EB11ADDBF81384654.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Endgame/EndGameWidget.uasset'
+[2020.02.12-23.38.52:008][771]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.38.52:043][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.38.52:043][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-23.38.52:043][771]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 7:38:52 AM)
+[2020.02.12-23.38.52:043][771]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.38.52:060][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017022s)
+[2020.02.12-23.38.52:060][771]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.38.52:061][771]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2020.02.12-23.38.52:061][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017745s)
+[2020.02.12-23.38.52:124][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.12-23.38.52:130][771]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.38.52:137][771]LogInit: FAudioDevice initialized.
+[2020.02.12-23.38.52:142][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.38.52:177][771]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.38.52:184][771]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.38.52
+[2020.02.12-23.38.52:185][771]LogWorld: Bringing up level for play took: 0.007195
+[2020.02.12-23.38.52:206][771]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.973
+[2020.02.12-23.38.52:206][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.38.55:680][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.38.55:680][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.38.55:695][ 81]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.38.55:746][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.38.55:746][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.38.55:836][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.02.12-23.38.55:863][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.12-23.41.06:346][858]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.41.06:372][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.41.06:372][858]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.12-23.41.06:374][858]LogPlayLevel: [PlayLevel] Compiling EndGameWidget before play...
+[2020.02.12-23.41.06:631][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.02.12-23.41.06:631][858]LogPlayLevel: PlayLevel: Blueprint regeneration took 259 ms (1 blueprints)
+[2020.02.12-23.41.06:631][858]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 7:41:06 AM)
+[2020.02.12-23.41.06:631][858]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.41.06:648][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016984s)
+[2020.02.12-23.41.06:649][858]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.41.06:649][858]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2020.02.12-23.41.06:649][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017853s)
+[2020.02.12-23.41.06:696][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.02.12-23.41.06:700][858]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.41.06:709][858]LogInit: FAudioDevice initialized.
+[2020.02.12-23.41.06:714][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.41.06:746][858]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.41.06:753][858]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.41.06
+[2020.02.12-23.41.06:755][858]LogWorld: Bringing up level for play took: 0.007347
+[2020.02.12-23.41.06:775][858]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.457
+[2020.02.12-23.41.06:776][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.41.07:885][945]LogSlate: Took 0.013328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.02.12-23.41.09:489][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.41.09:489][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.41.09:514][ 97]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.41.09:561][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.41.09:561][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.41.09:649][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.12-23.41.09:673][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.02.12-23.41.10:324][161]BlueprintLog: New page: Compile EndGameWidget
+[2020.02.12-23.41.10:547][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.12-23.41.11:166][215]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidgetB3F7C85940FC182F4037B98433F9DDC8.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Endgame/EndGameWidget.uasset'
+[2020.02.12-23.41.14:682][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.02.12-23.41.15:012][558]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap1274B53D49777845B5E309A4CD5DF6FF.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.12-23.41.15:082][558]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.468
+[2020.02.12-23.41.16:803][741]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.41.16:826][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.41.16:826][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-23.41.16:827][741]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 7:41:16 AM)
+[2020.02.12-23.41.16:827][741]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.41.16:842][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015577s)
+[2020.02.12-23.41.16:843][741]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.41.16:843][741]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2020.02.12-23.41.16:843][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016362s)
+[2020.02.12-23.41.16:900][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.12-23.41.16:905][741]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.41.16:916][741]LogInit: FAudioDevice initialized.
+[2020.02.12-23.41.16:920][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.41.16:956][741]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.41.16:963][741]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.41.16
+[2020.02.12-23.41.16:965][741]LogWorld: Bringing up level for play took: 0.007320
+[2020.02.12-23.41.16:986][741]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.247
+[2020.02.12-23.41.16:986][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.41.18:030][831]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.41.18:031][831]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.41.18:084][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.12-23.41.18:086][831]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.41.18:101][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015541s)
+[2020.02.12-23.41.18:102][831]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.41.18:102][831]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2020.02.12-23.41.18:102][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016343s)
+[2020.02.12-23.41.18:102][831]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.41.18:112][831]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.41.18
+[2020.02.12-23.41.18:113][831]LogWorld: Bringing up level for play took: 0.010715
+[2020.02.12-23.41.18:115][831]LogLoad: Took 0.084392 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.02.12-23.41.18:496][865]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.41.18:496][865]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.41.18:545][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.02.12-23.41.18:546][865]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.41.18:561][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015184s)
+[2020.02.12-23.41.18:561][865]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.41.18:561][865]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2020.02.12-23.41.18:561][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015881s)
+[2020.02.12-23.41.18:561][865]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.41.18:570][865]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.41.18
+[2020.02.12-23.41.18:571][865]LogWorld: Bringing up level for play took: 0.009000
+[2020.02.12-23.41.18:573][865]LogLoad: Took 0.077113 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.02.12-23.41.18:663][873]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.41.18:663][873]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.41.18:718][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.02.12-23.41.18:719][873]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.41.18:735][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015960s)
+[2020.02.12-23.41.18:735][873]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.41.18:735][873]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2020.02.12-23.41.18:735][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016835s)
+[2020.02.12-23.41.18:736][873]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.41.18:738][873]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.41.18
+[2020.02.12-23.41.18:739][873]LogWorld: Bringing up level for play took: 0.003247
+[2020.02.12-23.41.18:741][873]LogLoad: Took 0.078078 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.02.12-23.41.34:395][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-23.41.38:735][800]LogBlueprintUserMessages: [Campfire_16] 1
+[2020.02.12-23.41.58:742][917]LogBlueprintUserMessages: [Campfire_16] 2
+[2020.02.12-23.42.18:744][957]LogBlueprintUserMessages: [Campfire_16] 3
+[2020.02.12-23.42.38:750][ 32]LogBlueprintUserMessages: [Campfire_16] 4
+[2020.02.12-23.42.58:741][ 81]LogBlueprintUserMessages: [Campfire_16] 5
+[2020.02.12-23.43.18:736][149]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.12-23.43.18:737][149]LogBlueprintUserMessages: [Campfire_16] 6
+[2020.02.12-23.43.38:741][167]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.12-23.43.38:741][167]LogBlueprintUserMessages: [Campfire_16] True
+[2020.02.12-23.43.38:742][167]LogBlueprintUserMessages: [Campfire_16] 7
+[2020.02.12-23.43.58:746][891]LogBlueprintUserMessages: [Campfire_16] 8
+[2020.02.12-23.44.15:501][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.44.15:501][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.44.15:517][225]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.44.15:558][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.44.15:558][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.44.15:708][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.02.12-23.44.15:723][226]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.12-23.44.37:816][837]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.02.12-23.44.37:870][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.12-23.44.37:872][837]Cmd: MAP LOAD FILE="../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.12-23.44.37:872][837]LightingResults: New page: Lighting Build
+[2020.02.12-23.44.37:872][837]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2020.02.12-23.44.37:916][837]MapCheck: New page: Map Check
+[2020.02.12-23.44.37:916][837]LightingResults: New page: Lighting Build
+[2020.02.12-23.44.37:964][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.12-23.44.37:997][837]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.44.38:052][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.12-23.44.38:117][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.12-23.44.38:152][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.12-23.44.38:152][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2020.02.12-23.44.38:153][837]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.282
+[2020.02.12-23.46.00:032][276]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidget683420084770149A1ADDB6A5A27BDFB5.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Endgame/EndGameWidget.uasset'
+[2020.02.12-23.46.01:721][425]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidgetBCBFC8434AE459964F46FBB1BF6C8130.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Endgame/EndGameWidget.uasset'
+[2020.02.12-23.46.02:389][494]BlueprintLog: New page: Compile EndGameWidget
+[2020.02.12-23.46.02:444][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.02.12-23.46.07:272][998]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.46.07:307][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.46.07:307][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-23.46.07:307][998]PIE: New page: PIE session: TopDownExampleMap (Feb 12, 2020, 7:46:07 AM)
+[2020.02.12-23.46.07:307][998]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.46.07:326][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019686s)
+[2020.02.12-23.46.07:326][998]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.46.07:327][998]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2020.02.12-23.46.07:327][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020755s)
+[2020.02.12-23.46.07:388][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.02.12-23.46.07:393][998]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.46.07:401][998]LogInit: FAudioDevice initialized.
+[2020.02.12-23.46.07:405][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.46.07:439][998]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.46.07:448][998]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.46.07
+[2020.02.12-23.46.07:450][998]LogWorld: Bringing up level for play took: 0.009165
+[2020.02.12-23.46.07:470][998]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.238
+[2020.02.12-23.46.07:471][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.46.08:090][ 58]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.46.08:090][ 58]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.46.08:138][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.12-23.46.08:138][ 58]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.46.08:154][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015553s)
+[2020.02.12-23.46.08:154][ 58]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.46.08:155][ 58]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2020.02.12-23.46.08:155][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016276s)
+[2020.02.12-23.46.08:155][ 58]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.46.08:160][ 58]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.46.08
+[2020.02.12-23.46.08:161][ 58]LogWorld: Bringing up level for play took: 0.005835
+[2020.02.12-23.46.08:163][ 58]LogLoad: Took 0.072771 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.02.12-23.46.08:421][ 87]LogNet: Browse: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.46.08:421][ 87]LogLoad: LoadMap: /Game/TopDownBP/Maps/TopDownExampleMap
+[2020.02.12-23.46.08:467][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.02.12-23.46.08:468][ 87]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.12-23.46.08:483][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015056s)
+[2020.02.12-23.46.08:483][ 87]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.12-23.46.08:484][ 87]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2020.02.12-23.46.08:484][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015764s)
+[2020.02.12-23.46.08:484][ 87]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.46.08:491][ 87]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.12-15.46.08
+[2020.02.12-23.46.08:492][ 87]LogWorld: Bringing up level for play took: 0.008292
+[2020.02.12-23.46.08:496][ 87]LogLoad: Took 0.074852 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap)
+[2020.02.12-23.46.10:667][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.46.10:668][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.46.10:699][339]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.46.10:737][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.46.10:737][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.12-23.46.10:820][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.02.12-23.46.10:836][340]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.02.12-23.47.15:556][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.02.12-23.47.15:556][915]LogMetaData: Removing '/Game/TopDownBP/Maps/Level1.Level1_C' ref from Metadata '/Game/TopDownBP/Maps/TopDownExampleMap.PackageMetaData'
+[2020.02.12-23.47.15:557][915]LogMetaData: Removing '/Game/TopDownBP/Maps/Level1.SKEL_Level1_C' ref from Metadata '/Game/TopDownBP/Maps/TopDownExampleMap.PackageMetaData'
+[2020.02.12-23.47.15:621][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.12-23.47.15:963][915]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Level1DE555DC249BE1486D76782847DB221B2.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/Level1.umap'
+[2020.02.12-23.47.16:479][915]LogFileHelpers: Saving map 'Level1' took 0.907
+[2020.02.12-23.47.16:522][915]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMap6445BF0C41E88CA360225D83F96551C5.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.12-23.47.50:762][536]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.47.50:794][536]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.47.50:794][536]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.12-23.47.50:796][536]LogPlayLevel: [PlayLevel] Compiling EndGameWidget before play...
+[2020.02.12-23.47.51:123][536]LogUObjectHash: Compacting FUObjectHashTables data took  10.54ms
+[2020.02.12-23.47.51:123][536]LogPlayLevel: PlayLevel: Blueprint regeneration took 329 ms (1 blueprints)
+[2020.02.12-23.47.51:124][536]PIE: New page: PIE session: Level1 (Feb 12, 2020, 7:47:51 AM)
+[2020.02.12-23.47.51:124][536]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.51:156][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031668s)
+[2020.02.12-23.47.51:156][536]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.51:156][536]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2020.02.12-23.47.51:156][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.032645s)
+[2020.02.12-23.47.51:215][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.12-23.47.51:219][536]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.47.51:228][536]LogInit: FAudioDevice initialized.
+[2020.02.12-23.47.51:233][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.47.51:266][536]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.51:273][536]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.51
+[2020.02.12-23.47.51:275][536]LogWorld: Bringing up level for play took: 0.007641
+[2020.02.12-23.47.51:295][536]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Level1 0.064
+[2020.02.12-23.47.51:296][536]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.47.51:942][591]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.51:942][591]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.51:998][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.12-23.47.51:999][591]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.52:017][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018118s)
+[2020.02.12-23.47.52:017][591]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.52:017][591]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2020.02.12-23.47.52:018][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.018825s)
+[2020.02.12-23.47.52:018][591]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.52:030][591]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.52
+[2020.02.12-23.47.52:031][591]LogWorld: Bringing up level for play took: 0.013053
+[2020.02.12-23.47.52:033][591]LogLoad: Took 0.090400 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.47.52:697][648]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.52:697][648]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.52:749][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.12-23.47.52:750][648]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.52:769][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019661s)
+[2020.02.12-23.47.52:770][648]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.52:770][648]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2020.02.12-23.47.52:770][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.020417s)
+[2020.02.12-23.47.52:770][648]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.52:782][648]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.52
+[2020.02.12-23.47.52:783][648]LogWorld: Bringing up level for play took: 0.012805
+[2020.02.12-23.47.52:786][648]LogLoad: Took 0.089575 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.47.54:386][797]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.54:386][797]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.54:451][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.12-23.47.54:451][797]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.54:469][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017871s)
+[2020.02.12-23.47.54:470][797]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.54:470][797]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2020.02.12-23.47.54:470][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.018929s)
+[2020.02.12-23.47.54:470][797]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.54:478][797]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.54
+[2020.02.12-23.47.54:479][797]LogWorld: Bringing up level for play took: 0.008070
+[2020.02.12-23.47.54:481][797]LogLoad: Took 0.094459 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.47.54:719][819]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.54:719][819]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.54:778][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.02.12-23.47.54:778][819]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.54:794][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015335s)
+[2020.02.12-23.47.54:794][819]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.54:794][819]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2020.02.12-23.47.54:794][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.016054s)
+[2020.02.12-23.47.54:794][819]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.54:803][819]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.54
+[2020.02.12-23.47.54:804][819]LogWorld: Bringing up level for play took: 0.009375
+[2020.02.12-23.47.54:806][819]LogLoad: Took 0.086471 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.47.54:938][830]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.54:939][830]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.54:993][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.12-23.47.54:993][830]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.55:012][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019006s)
+[2020.02.12-23.47.55:012][830]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.55:012][830]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2020.02.12-23.47.55:013][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.020033s)
+[2020.02.12-23.47.55:013][830]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.55:017][830]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.55
+[2020.02.12-23.47.55:018][830]LogWorld: Bringing up level for play took: 0.004574
+[2020.02.12-23.47.55:019][830]LogLoad: Took 0.081634 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.47.55:130][840]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.55:130][840]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.55:186][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.02.12-23.47.55:186][840]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.55:201][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015012s)
+[2020.02.12-23.47.55:202][840]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.55:202][840]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2020.02.12-23.47.55:202][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.015761s)
+[2020.02.12-23.47.55:202][840]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.55:210][840]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.55
+[2020.02.12-23.47.55:211][840]LogWorld: Bringing up level for play took: 0.008224
+[2020.02.12-23.47.55:213][840]LogLoad: Took 0.082114 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.47.57:254][ 29]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.57:254][ 29]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.47.57:309][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.12-23.47.57:309][ 29]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.47.57:325][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016090s)
+[2020.02.12-23.47.57:326][ 29]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.47.57:326][ 29]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2020.02.12-23.47.57:326][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.016807s)
+[2020.02.12-23.47.57:326][ 29]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.47.57:340][ 29]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.47.57
+[2020.02.12-23.47.57:342][ 29]LogWorld: Bringing up level for play took: 0.015242
+[2020.02.12-23.47.57:345][ 29]LogLoad: Took 0.090711 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.47.57:363][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-23.47.57:538][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.47.57:538][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.47.57:555][ 47]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.47.57:594][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.47.57:594][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.47.57:689][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.12-23.47.57:714][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.02.12-23.48.23:884][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.48.23:917][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.48.23:917][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-23.48.23:917][631]PIE: New page: PIE session: Level1 (Feb 12, 2020, 7:48:23 AM)
+[2020.02.12-23.48.23:917][631]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.48.23:933][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015650s)
+[2020.02.12-23.48.23:933][631]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.48.23:933][631]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2020.02.12-23.48.23:934][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.016659s)
+[2020.02.12-23.48.23:986][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.02.12-23.48.23:990][631]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.48.23:998][631]LogInit: FAudioDevice initialized.
+[2020.02.12-23.48.24:001][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.48.24:031][631]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.48.24:037][631]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.48.24
+[2020.02.12-23.48.24:039][631]LogWorld: Bringing up level for play took: 0.006750
+[2020.02.12-23.48.24:060][631]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Level1 0.829
+[2020.02.12-23.48.24:061][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.48.26:711][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-23.48.26:801][838]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.48.26:801][838]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.48.26:852][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.12-23.48.26:852][838]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.48.26:870][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017723s)
+[2020.02.12-23.48.26:871][838]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.48.26:871][838]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2020.02.12-23.48.26:871][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.018504s)
+[2020.02.12-23.48.26:871][838]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.48.26:880][838]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.48.26
+[2020.02.12-23.48.26:881][838]LogWorld: Bringing up level for play took: 0.009062
+[2020.02.12-23.48.26:882][838]LogLoad: Took 0.081225 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.48.27:492][886]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.48.27:493][886]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.48.27:547][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.12-23.48.27:547][886]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.48.27:567][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019719s)
+[2020.02.12-23.48.27:568][886]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.48.27:568][886]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2020.02.12-23.48.27:568][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.020506s)
+[2020.02.12-23.48.27:568][886]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.48.27:584][886]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.48.27
+[2020.02.12-23.48.27:585][886]LogWorld: Bringing up level for play took: 0.016174
+[2020.02.12-23.48.27:587][886]LogLoad: Took 0.094390 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.48.30:578][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.48.30:579][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.48.30:606][126]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.48.30:643][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.48.30:643][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.48.30:731][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.02.12-23.48.30:756][127]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.02.12-23.48.54:978][551]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/Level1.Level1
+[2020.02.12-23.48.55:041][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.12-23.48.56:684][551]LogSlate: Window 'Save Content' being destroyed
+[2020.02.12-23.48.56:766][551]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/EndGameWidgetCB53F89644DA1A9E7A2BBCA9A99AA830.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Endgame/EndGameWidget.uasset'
+[2020.02.12-23.48.56:770][551]Cmd: MAP LOAD FILE="../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.12-23.48.56:770][551]LightingResults: New page: Lighting Build
+[2020.02.12-23.48.56:770][551]LoadErrors: New page: Loading map: Level1.umap
+[2020.02.12-23.48.56:772][551]MapCheck: New page: Map Check
+[2020.02.12-23.48.56:772][551]LightingResults: New page: Lighting Build
+[2020.02.12-23.48.56:841][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.02.12-23.48.56:872][551]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.48.56:907][551]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.12-23.48.56:973][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.12-23.48.57:007][551]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.12-23.48.57:007][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2020.02.12-23.48.57:008][551]LogFileHelpers: Loading map 'Level1' took 0.240
+[2020.02.12-23.49.21:438][328]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.12-23.50.50:659][ 14]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/Level1.Level1
+[2020.02.12-23.50.50:720][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.12-23.50.50:721][ 14]Cmd: MAP LOAD FILE="../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.12-23.50.50:721][ 14]LightingResults: New page: Lighting Build
+[2020.02.12-23.50.50:722][ 14]LoadErrors: New page: Loading map: Level1.umap
+[2020.02.12-23.50.50:723][ 14]MapCheck: New page: Map Check
+[2020.02.12-23.50.50:723][ 14]LightingResults: New page: Lighting Build
+[2020.02.12-23.50.50:776][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.02.12-23.50.50:802][ 14]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.50.51:010][ 14]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.12-23.50.51:079][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.02.12-23.50.51:109][ 14]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.12-23.50.51:109][ 14]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2020.02.12-23.50.51:110][ 14]LogFileHelpers: Loading map 'Level1' took 0.389
+[2020.02.12-23.50.57:014][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.12-23.51.44:370][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.12-23.51.44:765][318]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Level1409024BB42074A25172378A10D54A492.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/Level1.umap'
+[2020.02.12-23.51.45:890][437]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.12-23.51.45:939][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.51.45:940][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.12-23.51.45:940][437]PIE: New page: PIE session: Level1 (Feb 12, 2020, 7:51:45 AM)
+[2020.02.12-23.51.45:940][437]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.51.45:957][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017368s)
+[2020.02.12-23.51.45:958][437]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.51.45:958][437]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2020.02.12-23.51.45:958][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.018084s)
+[2020.02.12-23.51.46:010][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.02.12-23.51.46:014][437]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.12-23.51.46:022][437]LogInit: FAudioDevice initialized.
+[2020.02.12-23.51.46:026][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.51.46:059][437]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.51.46:067][437]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.51.46
+[2020.02.12-23.51.46:069][437]LogWorld: Bringing up level for play took: 0.007986
+[2020.02.12-23.51.46:089][437]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Level1 0.859
+[2020.02.12-23.51.46:090][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.51.46:770][498]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.51.46:770][498]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.51.46:824][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.12-23.51.46:824][498]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.51.46:840][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016215s)
+[2020.02.12-23.51.46:841][498]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.51.46:841][498]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2020.02.12-23.51.46:841][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.016926s)
+[2020.02.12-23.51.46:841][498]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.51.46:847][498]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.51.46
+[2020.02.12-23.51.46:847][498]LogWorld: Bringing up level for play took: 0.005994
+[2020.02.12-23.51.46:849][498]LogLoad: Took 0.078841 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.51.47:049][512]LogNet: Browse: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.51.47:049][512]LogLoad: LoadMap: /Game/TopDownBP/Maps/Level1
+[2020.02.12-23.51.47:103][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.12-23.51.47:103][512]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Level1
+[2020.02.12-23.51.47:119][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015677s)
+[2020.02.12-23.51.47:120][512]LogAIModule: Creating AISystem for world Level1
+[2020.02.12-23.51.47:120][512]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2020.02.12-23.51.47:120][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Level1.Level1 to /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 (0.016421s)
+[2020.02.12-23.51.47:120][512]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.12-23.51.47:123][512]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.12-15.51.47
+[2020.02.12-23.51.47:124][512]LogWorld: Bringing up level for play took: 0.003575
+[2020.02.12-23.51.47:126][512]LogLoad: Took 0.077017 seconds to LoadMap(/Game/TopDownBP/Maps/UEDPIE_0_Level1)
+[2020.02.12-23.51.48:570][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.51.48:571][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.12-23.51.48:586][677]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.12-23.51.48:619][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.12-23.51.48:619][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownBP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2020.02.12-23.51.48:713][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.02.12-23.51.48:728][678]LogPlayLevel: Display: Destroying online subsystem :Context_25
