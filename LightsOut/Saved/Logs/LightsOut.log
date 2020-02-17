@@ -1833,3 +1833,16 @@ Make sure 'TopDownCharacter_C' has been compiled for  Add Score
 [2020.02.17-03.34.25:423][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownGameMode]
 [2020.02.17-03.34.25:467][214]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownGameMode_Auto73DC6AB88486A19A8FF0B588FE6FC6522.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownGameMode_Auto7.uasset'
 [2020.02.17-03.34.25:469][214]LogFileHelpers: Auto-saving content packages took 0.227
+[2020.02.17-03.36.14:460][565]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Blind311F8DD94B64BB22521ABEA556319800.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Enemies/Blind.uasset'
+[2020.02.17-03.36.15:590][637]BlueprintLog: New page: Compile Blind
+[2020.02.17-03.36.15:596][637]LogBlueprint: Warning: [Compiler Blind] Could not find a variable named "score" in 'Blind_C'.
+Make sure 'Blind_C' has been compiled for  Get score
+[2020.02.17-03.36.15:598][637]LogBlueprint: Error: [Compiler Blind] The property associated with  Score  could not be found in '/Game/TopDownBP/Blueprints/Enemies/Blind.Blind_C'
+[2020.02.17-03.36.15:890][637]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2020.02.17-03.36.15:912][637]LogBlueprint: Warning: [Compiler Blind] [8383.27] Compile of Blind failed. 1 Fatal Issue(s) 1 Warning(s) [in 321 ms] (/Game/TopDownBP/Blueprints/Enemies/Blind.Blind)
+[2020.02.17-03.36.29:999][477]BlueprintLog: New page: Compile Blind
+[2020.02.17-03.36.30:290][477]LogUObjectHash: Compacting FUObjectHashTables data took  11.28ms
+[2020.02.17-03.36.34:036][687]BlueprintLog: New page: Compile Blind
+[2020.02.17-03.36.34:392][687]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2020.02.17-03.36.35:180][723]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/BlindF2F566EE48A1F8F69F0F7795E0F11AF7.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Enemies/Blind.uasset'
+[2020.02.17-03.36.37:306][837]LogSavePackage: Moving '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/DarksidersD757735045E187D2D831EAADB4FA7E33.tmp' to '../../../../../../Users/marcinko21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Enemies/Darksiders.uasset'
