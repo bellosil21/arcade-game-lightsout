@@ -1655,3 +1655,606 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.17-01.13.37:203][989]LogSlate: Window 'Darksiders' being destroyed
 [2020.02.17-01.13.37:206][989]LogSlate: Window 'Darksiders' being destroyed
 [2020.02.17-01.13.37:325][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.17-01.15.05:529][ 98]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.02.17-01.15.08:494][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.17-01.15.09:569][562]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.02.17-01.15.09:600][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.17-01.15.10:321][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.17-01.15.13:357][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.17-01.15.14:385][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.15.14:496][120]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.17-01.15.14:516][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.14:516][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-01.15.14:516][120]PIE: New page: PIE session: TopDownExampleMap (Feb 16, 2020, 9:15:14 AM)
+[2020.02.17-01.15.14:516][120]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.17-01.15.14:534][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018024s)
+[2020.02.17-01.15.14:535][120]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.17-01.15.14:535][120]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2020.02.17-01.15.14:535][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018945s)
+[2020.02.17-01.15.14:580][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.17-01.15.14:585][120]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-01.15.14:600][120]LogInit: FAudioDevice initialized.
+[2020.02.17-01.15.14:605][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-01.15.14:635][120]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.17-01.15.14:642][120]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.16-17.15.14
+[2020.02.17-01.15.14:645][120]LogWorld: Bringing up level for play took: 0.008655
+[2020.02.17-01.15.14:664][120]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.875
+[2020.02.17-01.15.14:665][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.21:268][885]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.17-01.15.21:270][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.21:304][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-01.15.21:304][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.21:372][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.17-01.15.21:394][886]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.02.17-01.15.22:385][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.15.22:486][ 17]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.17-01.15.22:501][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.22:501][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-01.15.22:501][ 17]PIE: New page: PIE session: TopDownExampleMap (Feb 16, 2020, 9:15:22 AM)
+[2020.02.17-01.15.22:502][ 17]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.17-01.15.22:517][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016353s)
+[2020.02.17-01.15.22:517][ 17]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.17-01.15.22:518][ 17]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2020.02.17-01.15.22:518][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017111s)
+[2020.02.17-01.15.22:556][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.17-01.15.22:561][ 17]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-01.15.22:574][ 17]LogInit: FAudioDevice initialized.
+[2020.02.17-01.15.22:577][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-01.15.22:605][ 17]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.17-01.15.22:614][ 17]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.16-17.15.22
+[2020.02.17-01.15.22:617][ 17]LogWorld: Bringing up level for play took: 0.009937
+[2020.02.17-01.15.22:635][ 17]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.846
+[2020.02.17-01.15.22:635][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.32:507][882]LogBlueprintUserMessages: [Campfire_16] 1
+[2020.02.17-01.15.34:251][943]LogAudio: Warning: Detected orphaned looping sound 'Fire01'.
+[2020.02.17-01.15.40:687][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.15.40:802][166]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.17-01.15.40:821][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.40:856][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-01.15.40:857][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.40:935][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.02.17-01.15.40:965][167]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.02.17-01.15.42:137][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.15.42:262][322]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.17-01.15.42:278][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.42:278][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-01.15.42:278][322]PIE: New page: PIE session: TopDownExampleMap (Feb 16, 2020, 9:15:42 AM)
+[2020.02.17-01.15.42:278][322]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.17-01.15.42:294][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016107s)
+[2020.02.17-01.15.42:295][322]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.17-01.15.42:295][322]LogPlayLevel: PIE: World Init took: (0.000581s)
+[2020.02.17-01.15.42:295][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016829s)
+[2020.02.17-01.15.42:334][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.17-01.15.42:339][322]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-01.15.42:353][322]LogInit: FAudioDevice initialized.
+[2020.02.17-01.15.42:356][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-01.15.42:384][322]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.17-01.15.42:392][322]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.16-17.15.42
+[2020.02.17-01.15.42:394][322]LogWorld: Bringing up level for play took: 0.009056
+[2020.02.17-01.15.42:413][322]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.624
+[2020.02.17-01.15.42:413][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.50:353][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.15.50:452][269]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.17-01.15.50:455][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.50:485][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-01.15.50:485][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.15.50:555][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.02.17-01.15.50:578][270]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.02.17-01.15.53:054][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.15.54:807][772]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.02.17-01.16.37:098][400]LogEditorTransaction: Undo Move Node
+[2020.02.17-01.16.38:073][451]LogEditorTransaction: Undo Move Node
+[2020.02.17-01.17.07:304][311]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Enemies/Blind.Blind
+[2020.02.17-01.18.59:215][991]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.17-01.18.59:232][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.18.59:232][991]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.17-01.18.59:343][991]LogPlayLevel: [PlayLevel] Compiling TopDownCharacter before play...
+[2020.02.17-01.18.59:662][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.17-01.18.59:662][991]LogPlayLevel: PlayLevel: Blueprint regeneration took 429 ms (1 blueprints)
+[2020.02.17-01.18.59:662][991]PIE: New page: PIE session: TopDownExampleMap (Feb 16, 2020, 9:18:59 AM)
+[2020.02.17-01.18.59:662][991]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.17-01.18.59:681][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018563s)
+[2020.02.17-01.18.59:681][991]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.17-01.18.59:682][991]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2020.02.17-01.18.59:682][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.019349s)
+[2020.02.17-01.18.59:718][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.02.17-01.18.59:723][991]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-01.18.59:736][991]LogInit: FAudioDevice initialized.
+[2020.02.17-01.18.59:740][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-01.18.59:767][991]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.17-01.18.59:775][991]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.16-17.18.59
+[2020.02.17-01.18.59:778][991]LogWorld: Bringing up level for play took: 0.009293
+[2020.02.17-01.18.59:798][991]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.011
+[2020.02.17-01.18.59:799][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.19.09:566][549]LogBlueprintUserMessages: [Campfire_16] 1
+[2020.02.17-01.19.11:138][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.19.11:271][639]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.17-01.19.11:276][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.19.11:309][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-01.19.11:309][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.19.11:380][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.02.17-01.19.11:438][640]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2020.02.17-01.19.24:735][234]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.17-01.19.24:785][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.19.24:785][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.17-01.19.24:785][234]PIE: New page: PIE session: TopDownExampleMap (Feb 16, 2020, 9:19:24 AM)
+[2020.02.17-01.19.24:785][234]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.02.17-01.19.24:803][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017850s)
+[2020.02.17-01.19.24:804][234]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.17-01.19.24:804][234]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2020.02.17-01.19.24:804][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018631s)
+[2020.02.17-01.19.24:857][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.17-01.19.24:862][234]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.17-01.19.24:875][234]LogInit: FAudioDevice initialized.
+[2020.02.17-01.19.24:879][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.17-01.19.24:911][234]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.02.17-01.19.24:920][234]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.02.16-17.19.24
+[2020.02.17-01.19.24:923][234]LogWorld: Bringing up level for play took: 0.010174
+[2020.02.17-01.19.24:943][234]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.156
+[2020.02.17-01.19.24:944][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.19.30:120][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.19.30:223][487]LogSlate: Window 'LightsOut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.17-01.19.30:228][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.19.30:283][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.17-01.19.30:283][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.02.17-01.19.30:355][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.17-01.19.30:503][488]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.02.17-01.19.34:565][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.17-01.19.56:936][886]LogSlate: Window 'Blind' being destroyed
+[2020.02.17-01.19.56:938][886]LogSlate: Window 'Blind' being destroyed
+[2020.02.17-01.19.57:062][886]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.17-01.20.04:217][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.17-01.20.04:343][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.02.17-01.20.13:303][273]LogSlate: Window 'Save Content' being destroyed
+[2020.02.17-01.20.13:319][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.17-01.20.13:834][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.17-01.20.13:924][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/Blind329ED84C4A417EF629B2F599A484504B.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Enemies/Blind.uasset'
+[2020.02.17-01.20.14:045][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/DarksidersC94405AA4480B402B55994AD06CD6319.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Enemies/Darksiders.uasset'
+[2020.02.17-01.20.14:165][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_001DA5E158E4B6A5AEF685B5895EA0B2B88.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_001.uasset'
+[2020.02.17-01.20.14:341][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_001_SpriteDD7AAA764A9082B0800B829486221E32.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_001_Sprite.uasset'
+[2020.02.17-01.20.14:514][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_002656196C546BB2B28E70F8E86ED48BCBA.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_002.uasset'
+[2020.02.17-01.20.14:720][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_002_SpriteD697F62449ECFF75C810829AC984A9CA.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_002_Sprite.uasset'
+[2020.02.17-01.20.14:921][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_00343418B214DE958DFB4235E8A97ECB9E9.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_003.uasset'
+[2020.02.17-01.20.15:117][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_003_Sprite2CE48B184AA9DDFB9C68ADA8E6F086CD.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_003_Sprite.uasset'
+[2020.02.17-01.20.15:367][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_00408AF2C044C4B945A18296A92E1D87D6E.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_004.uasset'
+[2020.02.17-01.20.15:527][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_004_SpriteCFBE2BA24A5D4D260619F0A0385AFF29.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_004_Sprite.uasset'
+[2020.02.17-01.20.15:711][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_005D138F3D54A5C1C49F219DEA803CBD5CE.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_005.uasset'
+[2020.02.17-01.20.15:891][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_005_Sprite00501D6C4A01B6CDE8877A8FA9CCED2F.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_005_Sprite.uasset'
+[2020.02.17-01.20.16:146][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_006B436B04E42F84D45615BEDAC82728744.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_006.uasset'
+[2020.02.17-01.20.16:322][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_006_Sprite57814F154BF10498E15F66BF8B5E7A39.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_006_Sprite.uasset'
+[2020.02.17-01.20.16:531][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_007C638AD60411EBBBC6B5587AEA0D666BF.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_007.uasset'
+[2020.02.17-01.20.16:717][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backleft_007_Sprite3C2728DB43FE34FDB1E2718BF7B23EDB.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/backleft_007_Sprite.uasset'
+[2020.02.17-01.20.16:875][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/BlindBackLeftIdleA143A4A94777E1132B84399A030ABD88.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/BlindBackLeftIdle.uasset'
+[2020.02.17-01.20.17:001][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/BlindBackLeftWalk6903A47E4189E765B8BFA99EF8B5F356.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackLeft/BlindBackLeftWalk.uasset'
+[2020.02.17-01.20.17:202][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_0019E173A804C2631539A8C53835DD8DCE4.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_001.uasset'
+[2020.02.17-01.20.17:377][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_001_SpriteF63324F14288DDCA8B8596B11D950F2F.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_001_Sprite.uasset'
+[2020.02.17-01.20.17:596][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_00241A638BA4434B0EE600FA38385ACDE0F.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_002.uasset'
+[2020.02.17-01.20.17:757][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_002_Sprite2AA0DD31426E9A49AEF475A9323D729F.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_002_Sprite.uasset'
+[2020.02.17-01.20.17:925][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_0031E5A459D4ADF2BC72E4C8CA6A4BEFE7B.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_003.uasset'
+[2020.02.17-01.20.18:068][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_003_SpriteA3333A494E46427168B4E9B53311F5ED.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_003_Sprite.uasset'
+[2020.02.17-01.20.18:268][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_004725BF352431D1530BBC0FAB4F57B102C.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_004.uasset'
+[2020.02.17-01.20.18:395][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_004_Sprite2AFEABEB44B26DCC8E486A870534B792.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_004_Sprite.uasset'
+[2020.02.17-01.20.18:550][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_0053DB1B41B43A030BE69C15682FD5BD438.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_005.uasset'
+[2020.02.17-01.20.18:692][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_005_SpriteB93AFAA7426488846A20009249829E91.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_005_Sprite.uasset'
+[2020.02.17-01.20.18:861][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_00630B96B854C0875BB4DC71191D03CB271.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_006.uasset'
+[2020.02.17-01.20.19:013][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_006_Sprite227A160644C86E92A332DC9EBB27E74C.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_006_Sprite.uasset'
+[2020.02.17-01.20.19:210][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_007F4A38E9F45C01CEC79EBCF8A603DAAD1.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_007.uasset'
+[2020.02.17-01.20.19:374][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/backright_007_SpriteEE680F744B1D21EF0116A19CE816E22C.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/backright_007_Sprite.uasset'
+[2020.02.17-01.20.19:500][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/BlindBackRightIdleD2077EFD4A8BEF3EF466429FE7F663C4.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/BlindBackRightIdle.uasset'
+[2020.02.17-01.20.19:635][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/BlindBackRightWalkD559D1644167FF1B3AE8CEAD93F403B7.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/BackRight/BlindBackRightWalk.uasset'
+[2020.02.17-01.20.19:868][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_001FE5FCE8549A618EDC968FA8B277DD1E8.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_001.uasset'
+[2020.02.17-01.20.20:082][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_001_Sprite17B66C824FD17C693FCE7989A35DBB08.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_001_Sprite.uasset'
+[2020.02.17-01.20.20:281][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_00286FF5B0B4CC6C7ED5FE2D7900C4D64CC.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_002.uasset'
+[2020.02.17-01.20.20:442][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_002_SpriteD1D1FE65488189511B19E78C7481A1C8.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_002_Sprite.uasset'
+[2020.02.17-01.20.20:635][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_003E0BC42FE40147AB7DE67D787FF9235C3.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_003.uasset'
+[2020.02.17-01.20.20:798][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_003_SpriteE6B01FDC47292177626B0684556BE477.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_003_Sprite.uasset'
+[2020.02.17-01.20.21:004][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_00491635F01441CC30CB495AC8F07B83F5A.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_004.uasset'
+[2020.02.17-01.20.21:180][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_004_SpriteAA93A0834C366E318E4B94B37F05BEE4.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_004_Sprite.uasset'
+[2020.02.17-01.20.21:368][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_005B4486B14489D7D08BC5D0D9B907494B2.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_005.uasset'
+[2020.02.17-01.20.21:523][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_005_SpriteFE45C7364C276BE271A167876026E484.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_005_Sprite.uasset'
+[2020.02.17-01.20.21:685][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_006733A0EE54AE871C762BC528773AA332F.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_006.uasset'
+[2020.02.17-01.20.21:865][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_006_SpriteD16A59BD4998BEDD623DA9B23A22617D.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_006_Sprite.uasset'
+[2020.02.17-01.20.22:048][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_0071BA14C7146EE05668D9A79B1D8F732CF.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_007.uasset'
+[2020.02.17-01.20.22:216][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontleft_007_Sprite87677B0E47947349C772F98DF7142E46.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontLeft/frontleft_007_Sprite.uasset'
+[2020.02.17-01.20.22:428][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_0010AD746E6481B9AA9C3ACB685882527B8.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_001.uasset'
+[2020.02.17-01.20.22:579][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_001_Sprite360D0EBD447516FE704C7BACA3444692.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_001_Sprite.uasset'
+[2020.02.17-01.20.22:822][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_002DE7142BF44B2B6D957DCD5BFF5B70427.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_002.uasset'
+[2020.02.17-01.20.22:986][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_002_Sprite46CD71744061B2D49E308EB0C2584766.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_002_Sprite.uasset'
+[2020.02.17-01.20.23:188][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_003B23A613642C8B30E042BFCA6E8CB0B86.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_003.uasset'
+[2020.02.17-01.20.23:357][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_003_Sprite29AD7670423DEE3768FD509F1F1AFFB9.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_003_Sprite.uasset'
+[2020.02.17-01.20.23:558][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_004FC2D8A7B4AE0724843DA92A51B388041.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_004.uasset'
+[2020.02.17-01.20.23:749][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_004_SpriteBCF61DC641B3FDA49D4540A8E75C4830.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_004_Sprite.uasset'
+[2020.02.17-01.20.23:985][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_0056B2FD6AD40DEAFAE39F93B9B7CBFCB23.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_005.uasset'
+[2020.02.17-01.20.24:158][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_005_Sprite851004804EA2E95DBC960FBD1AA30A72.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_005_Sprite.uasset'
+[2020.02.17-01.20.24:352][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_006321B599F41D39E189FD4B4A9F6252848.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_006.uasset'
+[2020.02.17-01.20.24:533][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_006_SpriteD0B96F6B40D80A152D0EF989DC521F77.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_006_Sprite.uasset'
+[2020.02.17-01.20.24:761][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_00762EBBE36475175D9E7A3C39A6B4E3728.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_007.uasset'
+[2020.02.17-01.20.24:915][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/frontright_007_Sprite32AE3B79447AC660BC0ABE9FD7E3E821.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/BlindFlipbook/FrontRight/frontright_007_Sprite.uasset'
+[2020.02.17-01.20.25:083][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/PlayerBackWalkEC4306664200D2CC0C5F29B188C94635.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/Back/PlayerBackWalk.uasset'
+[2020.02.17-01.20.25:189][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_0019DFE114E41BA74F3CB99E596E1BB10EF.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_001.uasset'
+[2020.02.17-01.20.25:344][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_001_Sprite3C7D87FB4A9E706A569C76AC1983C84E.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_001_Sprite.uasset'
+[2020.02.17-01.20.25:561][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_0022C859F2843398B3173D000924D0FE7D1.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_002.uasset'
+[2020.02.17-01.20.25:746][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_002_Sprite8788F77543A30B61D4CF6DB70AFCBA8B.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_002_Sprite.uasset'
+[2020.02.17-01.20.25:972][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_003C82DA8644F1237855282F8B12F7F8AB7.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_003.uasset'
+[2020.02.17-01.20.26:169][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_003_SpriteAE46DBDE4EE634F6C80B1DAFDDFF7D09.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_003_Sprite.uasset'
+[2020.02.17-01.20.26:399][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_0040B4362394C2CB8E375D46CA90EEF7448.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_004.uasset'
+[2020.02.17-01.20.26:562][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_004_Sprite48728BBB4D4B4FEDCB443D968D202EDA.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_004_Sprite.uasset'
+[2020.02.17-01.20.26:770][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_005A0FB5CCB49FA11DD588F4899DD94F02B.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_005.uasset'
+[2020.02.17-01.20.26:957][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_005_Sprite6A60217C476B6B18976708894E0E74BB.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_005_Sprite.uasset'
+[2020.02.17-01.20.27:202][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_0064372DCC04E22B13099F85993A2A67B58.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_006.uasset'
+[2020.02.17-01.20.27:388][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_006_SpriteC364A00644EE9A214A83DF918BBF4588.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_006_Sprite.uasset'
+[2020.02.17-01.20.27:591][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_0076ED7819C4DA499439FB9B6B5E6008110.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_007.uasset'
+[2020.02.17-01.20.27:774][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_007_Sprite1EAFAC074D864DCAC21675AB34B90B4D.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_007_Sprite.uasset'
+[2020.02.17-01.20.28:054][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_008755781474BEB084DF7EBC4AC3ABA7EA0.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_008.uasset'
+[2020.02.17-01.20.28:248][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/back_008_SpriteFEC61FCA4AF3ABE9F69FFB825C142515.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/back_008_Sprite.uasset'
+[2020.02.17-01.20.28:403][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/PlayerBackAttackD5862C5C4424DA227A6477935568194A.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/BackAttack/PlayerBackAttack.uasset'
+[2020.02.17-01.20.28:572][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/PlayerFrontWalkA7FA9D0B44B4798508D218BD9D88A1E9.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/Front/PlayerFrontWalk.uasset'
+[2020.02.17-01.20.28:669][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_001D102620C4B6D9F7966AB358781B61BC2.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_001.uasset'
+[2020.02.17-01.20.28:854][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_001_Sprite322023744A253BDC534389B46E38EB53.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_001_Sprite.uasset'
+[2020.02.17-01.20.29:082][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_002FAE094F845817BB724642FA33FC71CDA.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_002.uasset'
+[2020.02.17-01.20.29:281][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_002_Sprite704AC620448C4B74B55E65983037DB82.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_002_Sprite.uasset'
+[2020.02.17-01.20.29:518][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_0037ABCF8CB4B850E3661D1E4B5C79BBBE7.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_003.uasset'
+[2020.02.17-01.20.29:710][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_003_SpriteE7159F2F4E0B0EF6B55D6F85371B294C.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_003_Sprite.uasset'
+[2020.02.17-01.20.29:936][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_004FF4ADABE46876AB286DF6AB1787ED074.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_004.uasset'
+[2020.02.17-01.20.30:117][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_004_Sprite3B4595BE4ADE6CAC53E2DA922003E321.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_004_Sprite.uasset'
+[2020.02.17-01.20.30:343][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_00525890E484DB2D10020459ABBEB410A0A.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_005.uasset'
+[2020.02.17-01.20.30:515][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_005_Sprite142D4F594245C953EF95D39EB2961489.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_005_Sprite.uasset'
+[2020.02.17-01.20.30:774][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_00623D40D28445F2ED55D86FAA2AC69BA1C.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_006.uasset'
+[2020.02.17-01.20.30:979][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_006_Sprite77A94C0A49B92F368CAD3F8950FACCEB.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_006_Sprite.uasset'
+[2020.02.17-01.20.31:214][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_0079BA8DA8C411A2DFFE27BAC976DAB55DC.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_007.uasset'
+[2020.02.17-01.20.31:384][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_007_Sprite3CFFC35B49115AE87EB6C595D02BB46B.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_007_Sprite.uasset'
+[2020.02.17-01.20.31:632][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_00839C3D81B48F10ABB42EA05AEC6B8BD29.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_008.uasset'
+[2020.02.17-01.20.31:792][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/front_008_Sprite14D8705548702347F0BE0081A5E081B0.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/front_008_Sprite.uasset'
+[2020.02.17-01.20.31:941][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/PlayerFrontAttack5E4BAE5D4D0DD89BCD1730B00C5EA051.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/FrontAttack/PlayerFrontAttack.uasset'
+[2020.02.17-01.20.32:109][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/PlayerLeftWalkF6FE0AE44B8E8FE0DBC352932B7745C3.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/Left/PlayerLeftWalk.uasset'
+[2020.02.17-01.20.32:152][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/PlayerRightWalk313C0EAB41D6E6F04164B5ACCB8E8BA5.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/Flipbooks/PlayerFlipbook/Right/PlayerRightWalk.uasset'
+[2020.02.17-01.20.32:342][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownCharacterA17203214955FD053BE11A884E903E8B.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2020.02.17-01.20.32:399][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.17-01.20.32:703][273]LogSavePackage: Moving '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Saved/TopDownExampleMapFC019C994A4F839385E771B27F6D9E7E.tmp' to '../../../../../../Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.02.17-01.20.32:767][273]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.417
+[2020.02.17-01.20.32:946][273]LogSlate: Window 'LightsOut - Unreal Editor' being destroyed
+[2020.02.17-01.20.33:758][274]Cmd: QUIT_EDITOR
+[2020.02.17-01.20.33:999][274]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.17-01.20.34:016][274]LogExit: Preparing to exit.
+[2020.02.17-01.20.35:054][274]LogDirectoryWatcher: A directory notification failed for 'C:/Users/kima21/Documents/GitHub/arcade-game-lightsout/LightsOut/Content/', and we were unable to create a new request.
+[2020.02.17-01.20.35:122][274]LogExit: Editor shut down
+[2020.02.17-01.20.35:122][274]LogExit: Transaction tracking system shut down
+[2020.02.17-01.20.35:480][274]LogExit: Object subsystem successfully closed.
+[2020.02.17-01.20.35:501][274]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.17-01.20.35:509][274]LogD3D11RHI: Shutdown
+[2020.02.17-01.20.35:509][274]LogD3D11RHI: CleanupD3DDevice
+[2020.02.17-01.20.35:509][274]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.17-01.20.35:509][274]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.17-01.20.35:509][274]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.17-01.20.35:509][274]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.17-01.20.35:509][274]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.17-01.20.35:509][274]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.17-01.20.35:690][274]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module TextureEditor (650)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.02.17-01.20.35:701][274]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.02.17-01.20.35:702][274]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.02.17-01.20.35:703][274]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.02.17-01.20.36:218][274]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.02.17-01.20.36:218][274]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.02.17-01.20.36:218][274]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.02.17-01.20.36:219][274]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.02.17-01.20.36:219][274]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.02.17-01.20.36:219][274]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.02.17-01.20.36:219][274]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.02.17-01.20.36:219][274]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.02.17-01.20.36:219][274]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.02.17-01.20.36:219][274]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.02.17-01.20.36:220][274]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.02.17-01.20.36:220][274]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.02.17-01.20.36:220][274]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.02.17-01.20.36:220][274]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.02.17-01.20.36:220][274]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.02.17-01.20.36:221][274]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.02.17-01.20.36:221][274]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.02.17-01.20.36:221][274]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.02.17-01.20.36:222][274]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.02.17-01.20.36:222][274]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.02.17-01.20.36:222][274]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.02.17-01.20.36:222][274]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.02.17-01.20.36:222][274]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.02.17-01.20.36:278][274]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.02.17-01.20.36:278][274]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.02.17-01.20.36:278][274]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.02.17-01.20.36:278][274]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.02.17-01.20.36:278][274]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.02.17-01.20.36:278][274]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.02.17-01.20.36:279][274]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.02.17-01.20.36:279][274]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.02.17-01.20.36:279][274]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.02.17-01.20.36:279][274]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.02.17-01.20.36:279][274]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.02.17-01.20.36:293][274]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.02.17-01.20.36:293][274]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.02.17-01.20.36:293][274]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.02.17-01.20.36:293][274]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.02.17-01.20.36:293][274]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.02.17-01.20.36:293][274]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.02.17-01.20.36:294][274]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.02.17-01.20.36:295][274]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.02.17-01.20.36:295][274]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.02.17-01.20.36:295][274]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.02.17-01.20.36:295][274]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.02.17-01.20.36:303][274]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.02.17-01.20.36:538][274]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.02.17-01.20.36:539][274]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.02.17-01.20.36:540][274]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.02.17-01.20.36:541][274]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.02.17-01.20.36:542][274]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.02.17-01.20.36:542][274]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.02.17-01.20.36:542][274]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.02.17-01.20.36:542][274]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.02.17-01.20.36:542][274]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.17-01.20.36:542][274]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.17-01.20.36:642][274]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.02.17-01.20.36:743][274]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.02.17-01.20.36:743][274]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.02.17-01.20.36:744][274]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.02.17-01.20.36:744][274]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.02.17-01.20.36:745][274]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.02.17-01.20.36:745][274]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.02.17-01.20.36:746][274]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.02.17-01.20.36:746][274]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.02.17-01.20.36:747][274]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.02.17-01.20.36:749][274]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.02.17-01.20.36:750][274]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.02.17-01.20.36:751][274]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.02.17-01.20.36:751][274]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.02.17-01.20.36:754][274]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.02.17-01.20.36:755][274]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.02.17-01.20.36:755][274]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.02.17-01.20.36:755][274]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.02.17-01.20.36:755][274]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.02.17-01.20.36:755][274]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.02.17-01.20.36:755][274]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.02.17-01.20.36:755][274]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.02.17-01.20.36:762][274]LogDerivedDataCache: Shutdown
+[2020.02.17-01.20.36:762][274]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.02.17-01.20.36:762][274]LogXGEController: Cleaning working directory: C:/Users/kima21/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.17-01.20.36:762][274]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.02.17-01.20.36:762][274]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.02.17-01.20.36:762][274]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.02.17-01.20.36:762][274]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.02.17-01.20.36:763][274]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.02.17-01.20.36:765][274]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.02.17-01.20.36:765][274]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.02.17-01.20.36:765][274]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.02.17-01.20.36:765][274]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.02.17-01.20.36:765][274]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.02.17-01.20.36:767][274]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.02.17-01.20.36:767][274]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.02.17-01.20.36:769][274]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.02.17-01.20.36:769][274]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.02.17-01.20.36:782][274]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.02.17-01.20.36:783][274]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.02.17-01.20.36:783][274]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.02.17-01.20.36:783][274]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.17-01.20.36:783][274]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.02.17-01.20.36:783][274]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.02.17-01.20.36:783][274]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.02.17-01.20.36:783][274]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.02.17-01.20.36:783][274]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.02.17-01.20.36:786][274]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.02.17-01.20.36:787][274]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.02.17-01.20.36:801][274]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.02.17-01.20.36:801][274]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.17-01.20.36:801][274]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B723166CD-43E9-6248-45C7-FDB8F5089D0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=66f2ff104dbeea995812f2870bc75da6%7C%7Cca7ea597-bded-45c8-99c4-3dd23c07474c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.17-01.20.36:815][274]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.02.17-01.20.36:819][274]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.02.17-01.20.36:824][274]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.02.17-01.20.36:831][274]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.02.17-01.20.36:831][274]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.02.17-01.20.36:832][274]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.17-01.20.36:832][274]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.17-01.20.36:832][274]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.17-01.20.36:832][274]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.17-01.20.36:833][274]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.17-01.20.36:833][274]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.17-01.20.36:833][274]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.17-01.20.36:835][274]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.17-01.20.36:836][274]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.17-01.20.36:836][274]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.17-01.20.36:836][274]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.17-01.20.36:856][274]LogExit: Exiting.
+[2020.02.17-01.20.36:898][274]Log file closed, 02/16/20 17:20:36
